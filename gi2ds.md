@@ -1,5 +1,5 @@
 # gi2ds - Google Image Search 2 Dataset
-gi2ds is intened to help you when creating an image dataset based on a google images query. It allows you to exclude images that are not relevant by toggling them on and off by clicking on them. Default is that all images are included. The urls are found in a popup down to the right. You need to scroll all the way down for more images to load, also pressing the `show more results` button and continuing scrolling in order to get all the pictures available.
+**gi2ds** is intened to help you when creating an image dataset based on a google images query. It allows you to exclude images that are not relevant by toggling them on and off by clicking on them. Default is that all images are included. The urls are found in a popup down to the right. You need to scroll all the way down for more images to load, also pressing the `show more results` button and continuing scrolling in order to get all the pictures available.
 
 ![gi2ds - Google Image Search to Dataset](images/gi2ds-usage.png)
 
@@ -47,3 +47,5 @@ I will become a button you can press instead of pasting the code into the JavaSc
 
 ![Adding a bookmarklet](images/gi2ds-bookmarklet-button.png)
 
+### Inspiration
+Inspiration comes from this years [fast.ai](https://www.fast.ai/) course (v3) where i am attending as an International Fellow. The course will be available to the public in January 2019
